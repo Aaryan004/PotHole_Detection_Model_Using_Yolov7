@@ -1,0 +1,6 @@
+train: C:/Users/Aaryan Naithani/OneDrive/Desktop/Pothole_Detection_Model_Using_YOLOv7-main/yolo_formatted_data/images/train
+val:   C:/Users/Aaryan Naithani/OneDrive/Desktop/Pothole_Detection_Model_Using_YOLOv7-main/yolo_formatted_data/images/val
+test:  C:/Users/Aaryan Naithani/OneDrive/Desktop/Pothole_Detection_Model_Using_YOLOv7-main/yolo_formatted_data/images/test
+
+nc: 1  
+names: ['pothole']
